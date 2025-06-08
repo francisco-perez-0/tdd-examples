@@ -1,8 +1,11 @@
 # Trabajando con TDD
+## Node  
+Para correr los test en **Node** usar `npm run test` y `npx eslint`
 
-En este repositorio dejamos ejemplos con algunos lenguajes y la implementación
-de pruebas para resolver la problemática de
-[FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz). 
+## Python
+Para correr los test en **Python** usar `pytest`y `flake8 .`
 
-Los ejemplos están incompletos y fallando. La idea es completarlos según la
-consigna que se haya entregado.
+## Ruby
+Para correr los test en **Ruby** usar `bundle exec ruby test-fizzbuzz.rb` y `bundle exec rubocop *rb`
+
+
